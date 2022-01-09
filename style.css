@@ -39,7 +39,6 @@ h2 {
   text-transform: none;
 }
 
-button {
 .myButton {
 color: rgb(255, 255, 255); font-size: 24px; line-height: 24px; padding: 6px; border-top-left-radius: 9px; border-top-right-radius: 9px; border-bottom-right-radius: 9px; border-bottom-left-radius: 9px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-transform: none; background-image: radial-gradient(rgb(232, 215, 231) 0%, rgb(242, 242, 242) 59%, rgb(255, 216, 186) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
 .myButton:hover {
