@@ -3,10 +3,10 @@ html {
 }
 
 body {
-  background: #FFFFFF;
-  background: -moz-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
-  background: -webkit-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
-  background: radial-gradient(ellipse at center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
+ background: #FFFFFF;
+background: -moz-radial-gradient(center, #FFFFFF 0%, #F5F5F5 42%, #7EAFC5 100%);
+background: -webkit-radial-gradient(center, #FFFFFF 0%, #F5F5F5 42%, #7EAFC5 100%);
+background: radial-gradient(ellipse at center, #FFFFFF 0%, #F5F5F5 42%, #7EAFC5 100%);
 }
 
 img {
