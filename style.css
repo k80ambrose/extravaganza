@@ -40,7 +40,7 @@ h2 {
 }
 
 button {
-color: rgb(38, 38, 38); font-size: 9px; line-height: 9px; padding: 29px; border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px; font-family: Georgia, serif; font-weight: bold; text-decoration: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-transform: none; background-image: radial-gradient(rgb(232, 215, 231) 0%, rgb(242, 242, 242) 50%, rgb(255, 216, 186) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; display: inline-block;}
+cursor: cell; color: rgb(38, 38, 38); font-size: 9px; line-height: 9px; padding: 29px; border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px; font-family: Georgia, serif; font-weight: bold; text-decoration: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-transform: none; background-image: radial-gradient(rgb(232, 215, 231) 0%, rgb(242, 242, 242) 50%, rgb(255, 216, 186) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; display: inline-block;}
 
 button:hover {
 background: #E8D7E7; }
